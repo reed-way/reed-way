@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+💼 I'm currently preparing for my post master's job.
 
 <!--
 **reed-way/reed-way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
