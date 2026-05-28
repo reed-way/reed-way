@@ -1,0 +1,1 @@
+angular.module("ui.event",[]).directive("uiEvent",["$parse",function(a){return function(e,n,r){var i=e.$eval(r.uiEvent);angular.forEach(i,function(r,i){var t=a(r);n.bind(i,function(a){var n=Array.prototype.slice.call(arguments);t(e,{$event:a,$params:n=n.splice(1)}),e.$$phase||e.$apply()})})}}]);

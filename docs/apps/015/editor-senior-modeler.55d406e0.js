@@ -1,0 +1,1 @@
+"use strict";angular.module("setFocusModeler",[]).directive("setFocus",function(){return function(e,u){u[0].focus()}});

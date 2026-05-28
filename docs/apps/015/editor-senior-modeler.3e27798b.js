@@ -1,0 +1,1 @@
+"use strict";angular.module("activitiModeler").controller("EditorUnsavedChangesPopupCrtl",["$rootScope","$scope","$http","$location","$window",function(n,o,e,t,i){o.ok=function(){o.handleResponseFunction&&(o.handleResponseFunction(!0),i.onbeforeunload=void 0),o.$hide()},o.cancel=function(){o.handleResponseFunction&&o.handleResponseFunction(!1),o.$hide()}}]);

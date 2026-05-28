@@ -1,0 +1,1 @@
+angular.module("ie.select",[]).directive("ieSelectFix",[function(){return{restrict:"A",require:"select",link:function(e,t,n){if(document.attachEvent){var i=t[0];e.$watch(n.ieSelectFix,function(){var e=document.createElement("option");i.add(e,null),i.remove(i.options.length-1)})}}}}]);
