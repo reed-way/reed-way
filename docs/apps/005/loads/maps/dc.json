@@ -1,0 +1,47 @@
+{
+    "regionInfor": {
+        "title": "东城区",
+        "description": "东城区说明...",
+        "sizeX": 310,
+        "sizeY": 530
+    },
+    "buildings":[
+        {
+            "mark": "1123041",
+            "belong": false,
+            "posX": 195,
+            "posY": 183,
+            "sizeX": 0,
+            "sizeY": 0,
+            "title": "东直门综合楼",
+            "address": "东城区东直门南大街7号",
+            "description": "备注说明...",
+            "type": "综合楼",
+            "power": "自有",
+            "owner": "China Anon 通信公司",
+            "user": "China Anon 通信公司",
+            "landCard": [],
+            "ownerCard": [
+                {"id":"OC00001","sn":"BJabcd-20040001a","title":"望京综合楼主楼产权证"},
+                {"id":"OC00002","sn":"BJabcd-200430a1c","title":"望京综合楼附属楼产权证"}
+            ],
+            "completion": "2006",
+            "onlease": "2013-10-10",
+            "leaseUnit": "China Anon 通信公司",
+            "totalFloor":16,
+            "underFloor":3,
+            "inFloor": [4,5,6,7,8,9,10],
+            "departments": ["计划部","信息部","计划部2","信息部2"],
+            "totalArea": 59465,
+            "freeArea": 3310.85,
+            "employee": 2084,
+            "manager": "张三三",
+            "managerTel": "13011112222",
+            "surface": ["001.png"]
+        }
+    ],
+    "clusters":[
+    ],
+    "houses":[
+    ]
+}

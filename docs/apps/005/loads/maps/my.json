@@ -1,0 +1,47 @@
+{
+    "regionInfor": {
+        "title": "密云区",
+        "description": "密云区说明...",
+        "sizeX": 520,
+        "sizeY": 480
+    },
+    "buildings":[
+        {
+            "mark": "1023041",
+            "belong": false,
+            "posX": 200,
+            "posY": 220,
+            "sizeX": 0,
+            "sizeY": 0,
+            "title": "望京机房楼",
+            "address": "望京西路XXX号",
+            "description": "备注说明...",
+            "type": "数据中心与通信机房",
+            "power": "外部租赁",
+            "owner": "China Anon 通信公司",
+            "user": "China Anon 通信公司",
+            "landCard": [],
+            "ownerCard": [
+                {"id":"OC00001","sn":"BJabcd-20040001a","title":"望京综合楼主楼产权证"},
+                {"id":"OC00002","sn":"BJabcd-200430a1c","title":"望京综合楼附属楼产权证"}
+            ],
+            "completion": "2013-10-10",
+            "onlease": "-",
+            "leaseUnit": "China Anon 通信公司",
+            "totalFloor":15,
+            "underFloor":3,
+            "inFloor": [4],
+            "departments": ["计划部","信息部","计划部2","信息部2"],
+            "totalArea": 9910.85,
+            "freeArea": 3310.85,
+            "employee": 2084,
+            "manager": "张三三",
+            "managerTel": "13011112222",
+            "surface": ["001.jpg","002.jpg","003.jpg"]
+        }
+    ],
+    "clusters":[
+    ],
+    "houses":[
+    ]
+}
